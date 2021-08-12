@@ -12,7 +12,7 @@
 有汇总功能，管理员首页可以查看没门课程的选课人数。
 ````
 
-源码获取：[点此获取](http://www.shuyue.fun/index.php?type=productinfo&id=139)
+源码获取：[ **点此获取** ](http://www.shuyue.fun/index.php?type=productinfo&id=139)
 
 ## 环境需要
 ````
